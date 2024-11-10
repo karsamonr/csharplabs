@@ -1,0 +1,6 @@
+C:\Users\bogda\source\repos\csharp\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\csharp\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\bogda\source\repos\csharp\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\bogda\source\repos\csharp\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\bogda\source\repos\csharp\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\bogda\source\repos\csharp\lab8\lab8\obj\Debug\lab8.pdb
